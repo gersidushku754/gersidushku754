@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gersi.
-- 👀 I’m interested in new technologies and in bicycles. 
-- 🌱 I’m currently learning marketing.
+- 👀 I’m interested in new technologies and in literature, also I adore elves as you can see. 
+- 🌱 I’m currently learning marketing and reading Lord of the Rings.
 
 
 <!---
